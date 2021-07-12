@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anmol-jandyal 
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c language
